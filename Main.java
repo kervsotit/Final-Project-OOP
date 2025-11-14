@@ -6,7 +6,7 @@ class Expenses {
     private String description;
     private double amount;
 
-    public Expenses(String date, String category, String description, double amount){//Constructor
+    public Expenses(String date, String category, String description, double amount){
     this.date = date;
     this.category = category;
     this.description = description;
@@ -106,4 +106,5 @@ public class Main {
     }
 
 }
+
 
