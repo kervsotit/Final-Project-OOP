@@ -14,21 +14,6 @@ class Expenses {
 
 }
 
-public String getDate(){
-    return date;
-}
-
-public String getCategory(){
-    return category;
-}
-
-public String getDescription(){
-    return description;
-}
-
-public double getAmount() {
-    return amount;
-   }
 }
 
 public class Main {
@@ -120,4 +105,5 @@ public class Main {
     scanner.nextLine();
         return count;
     }
+
 }
