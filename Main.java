@@ -101,9 +101,9 @@ public class Main {
     expenseList[count] = new Expenses(Date, Category, Description, amount);
     count++;
     System.out.println("Saved successfully.");
-    System.out.println("Press ENTER to exit");
-    scanner.nextLine();
+
         return count;
     }
 
 }
+
