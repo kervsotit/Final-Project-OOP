@@ -3,9 +3,9 @@
 # 📝OVERVIEW
 Personal Expenses Tracker is console-based program that allows the user to track, manage, and categorize their daily expenses. It is designed to make monitoring and spending simple and efficient by recording different types of expenses such as food, transportation, bills, and etc.
 
-#OOP Concepts Applied
+# OOP Concepts Applied
 
-#🛡️ENCAPSULATION 
+#🛡️  ENCAPSULATION 
 #Encapsulation is applied in the Expenses class where it has four variables such as date, category, description and amount and declared it as private. This will prevent them from being accessed directly from outside the class and it will only can be accessed through the use of constructor. Also, it has getters methods which give controlled visibility to the values  when viewing the expenses.
 
 #🧬 INHERITANCE 
