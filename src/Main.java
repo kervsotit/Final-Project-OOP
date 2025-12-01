@@ -34,7 +34,7 @@ class Foodexpense extends Expenses{// nag-gawa me ng 3 subclasses which is yung 
 
 class Transportexpense extends Expenses{
     public Transportexpense(String date, String description, double amount){
-        super(date, "Tranport", description, amount);
+        super(date, "Transport", description, amount);
     }
 }
 
@@ -179,3 +179,4 @@ public class Main {
 
     
 }
+
