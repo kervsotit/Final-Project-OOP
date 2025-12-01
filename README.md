@@ -6,10 +6,10 @@ Personal Expenses Tracker is console-based program that allows the user to track
 # OOP Concepts Applied
 
 
-#🛡️  ENCAPSULATION 
+#🛡️ ENCAPSULATION 
 Encapsulation is applied in the Expenses class where it has four variables such as date, category, description and amount and declared it as private. This will prevent them from being accessed directly from outside the class and it will only can be accessed through the use of constructor. Also, it has getters methods which give controlled visibility to the values  when viewing the expenses.
 
-#🧬 INHERITANCE 
+#🧬INHERITANCE 
 Inheritance is applied to the most common expenses such as food, transportation, and bills by creating them as subclasses of the Expenses class. These subclasses inherit the properties of the parent class, which means they automatically receive the attributes and behavior of Expenses without rewriting them. Each subclass only sets its own category by calling super() in its constructor. For example, if the user inputs “Food” as the category, the program creates a Foodexpense object, and its behavior and data structure come from the parent Expenses class.
 
 #🎭 POLYMORPHISM
