@@ -21,5 +21,5 @@ Polymorphism is applied in the program by allowing the Expenses parent type to s
 
 ---
 
-##⚙️ ABSTRACTION
+## ⚙️ ABSTRACTION
 Abstraction is applied by using the ExpenseViewer interface, which defines the view() method without revealing how the viewing process works, while ConsoleExpenseViewer provides the actual implementation. It is also shown in the Addexpense class, where the whole process of adding an expense is grouped into one method, hiding the internal steps so the main program only needs to call it.
