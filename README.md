@@ -29,17 +29,17 @@ Abstraction is applied by using the ExpenseViewer interface, which defines the v
 
 ## 📁 Project Structure
 
--**Main.java** - Entry point of the program. It displays the menu, handles user input, and connects all the features such as adding, viewing, totaling, and filtering expenses.
+**`Main.java`** - Entry point of the program. It displays the menu, handles user input, and connects all the features such as adding, viewing, totaling, and filtering expenses.
 
--**Expenses.java** - Represents a single expense record. It stores four private variables (date, category, description, amount), enforcing encapsulation. It also provides getters so the data can be safely accessed when viewing expenses.
+**`Expenses.java`** - Represents a single expense record. It stores four private variables (date, category, description, amount), enforcing encapsulation. It also provides getters so the data can be safely accessed when viewing expenses.
 
--**FoodExpense.java/ TransportExpense.java / BillsExpense.java** -Subclasses of Expenses that automatically set their own category through super(). They inherit the parent class’s properties, allowing the program to create specialized expense objects based on user input.
+**`FoodExpense.java / TransportExpense.java / BillsExpense.java`** -Subclasses of Expenses that automatically set their own category through super(). They inherit the parent class’s properties, allowing the program to create specialized expense objects based on user input.
 
--**AddExpense.java** - Handles the entire process of adding a new expense. It collects user input, validates the amount, creates the correct expense object (using the category), and stores it in the expenses array.
+**`AddExpense.java`** - Handles the entire process of adding a new expense. It collects user input, validates the amount, creates the correct expense object (using the category), and stores it in the expenses array.
 
--**ExpenseViewer.java** - Defines the method view() without showing how it works. This applies abstraction by letting the viewer behavior be implemented differently by any class.
+**`ExpenseViewer.java`** - Defines the method view() without showing how it works. This applies abstraction by letting the viewer behavior be implemented differently by any class.
 
--**ConsoleExpenseViewer.java** - Implements the ExpenseViewer interface. Formats and displays all expenses in a table-like layout. 
+**`ConsoleExpenseViewer.java`**- Implements the ExpenseViewer interface. Formats and displays all expenses in a table-like layout. 
 
 ## 🚀HOW TO RUN THE PROGRAM 
 1. 📂Open the `src` folder in VS Code.
