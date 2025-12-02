@@ -59,5 +59,21 @@ ADD EXPENSES
 <img width="188" height="157" alt="image" src="https://github.com/user-attachments/assets/4c43f425-5e90-4e94-84c4-76c4a5aba362" />
 ---
 VIEW EXPENSES
+<img width="495" height="144" alt="image" src="https://github.com/user-attachments/assets/c0ed2144-97fb-4cc3-a367-1fb83d60309d" />
+---
+TOTAL EXPENSES
+---
+FILTER BY CATEGORY 
+---
+
+## 🙏 Acknowledgment
+I would like to express my gratitude to our instructor for the guidance and support provided throughout this project. I also want to thank my group members for their cooperation, ideas, and contributions that helped make this work successful. Their teamwork and dedication played a big role in completing this project effectively.
+---
+
+## 🔧 Future Enhancements
+To further improve this project, the following enhancements are planned:
+1.Add a graphical user interface (GUI) to make the application more user-friendly and easier to navigate.
+2.Include additional features such as expense filtering, total expense calculation, data exporting, and improved category management.
+
 
 
