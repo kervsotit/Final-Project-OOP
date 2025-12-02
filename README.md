@@ -78,11 +78,11 @@ To further improve this project, the following enhancements are planned:
 ### 1. Add a Graphical User Interface (GUI)
 This will make the application more user-friendly and easier to navigate.
 
-### 2. Add Additional Features
--🎯 Set Budget 
--🗓️ Monthly summary report
--🔎 Search bar  
--🔁 Add recurring expenses (e.g., daily/weekly/monthly)
+2. **Add Additional Features**
+ 🎯 **Set Budget**
+ 🗓️ **Monthly summary report**
+ 🔎 **Search bar**
+ 🔁 **Add recurring expenses (e.g., daily/weekly/monthly)**
 
 
 
