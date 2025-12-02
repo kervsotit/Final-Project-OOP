@@ -40,3 +40,16 @@ Abstraction is applied by using the ExpenseViewer interface, which defines the v
 
 -**ConsoleExpenseViewer.java** - Implements the ExpenseViewer interface. Formats and displays all expenses in a table-like layout. 
 
+## 🚀HOW TO RUN THE PROGRAM 
+1. 📂Open the `src` folder in VS Code.
+2. 🖥️Open a new terminal.
+3. 🛠️Compile the program:
+   ```sh
+   javac *.java
+4. ▶️Run the program:
+   ```sh
+   java.main
+
+## SAMPLE OUTPUT 
+<img width="276" height="179" alt="image" src="https://github.com/user-attachments/assets/e899fbc0-3c3e-43ca-84fc-1e9a0a86db8a" />
+
