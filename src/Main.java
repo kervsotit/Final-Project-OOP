@@ -34,11 +34,18 @@ public class Main {
                         break;
 
                     case 3:
-                        System.out.println("Total Expenses not implemented yet.");
+                        double total = ExpenseUtils.totalExpenses(expenseList, count);
+                        System.out.printf("Total Expenses: %.2f\n", total);
                         break;
 
                     case 4:
-                        System.out.println("Filter By Category not implemented yet.");
+                        System.out.print("Enter category to filter: ");
+                        String filterCategory = scanner.nextLine();
+                        Expenses[] filtered = ExpenseUtils.filterByCategory(expenseList, count, filterCategory);
+                        ExpenseViewer viewerFilter = new ConsoleExpenseViewer();
+                        viewerFilter.view(filtered, filtered.length);
+                        double totalFiltered = ExpenseUtils.totalExpenses(filtered, filtered.length);
+                        System.out.printf("Total for category '%s': %.2f\n", filterCategory, totalFiltered);
                         break;
 
                     case 5:
