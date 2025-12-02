@@ -48,8 +48,16 @@ Abstraction is applied by using the ExpenseViewer interface, which defines the v
    javac *.java
 4. ▶️Run the program:
    ```sh
-   java.main
+   java Main
 
 ## SAMPLE OUTPUT 
+
+MAIN MENU
 <img width="276" height="179" alt="image" src="https://github.com/user-attachments/assets/e899fbc0-3c3e-43ca-84fc-1e9a0a86db8a" />
+---
+ADD EXPENSES
+<img width="188" height="157" alt="image" src="https://github.com/user-attachments/assets/4c43f425-5e90-4e94-84c4-76c4a5aba362" />
+---
+VIEW EXPENSES
+
 
