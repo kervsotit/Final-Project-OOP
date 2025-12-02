@@ -79,10 +79,10 @@ To further improve this project, the following enhancements are planned:
 This will make the application more user-friendly and easier to navigate.
 
 ### 2. Add Additional Features
-🎯 Set Budget 
-🗓️ Monthly summary report
-🔎 Search bar  
-🔁 Add recurring expenses (e.g., daily/weekly/monthly)
+-🎯 Set Budget 
+-🗓️ Monthly summary report
+-🔎 Search bar  
+-🔁 Add recurring expenses (e.g., daily/weekly/monthly)
 
 
 
