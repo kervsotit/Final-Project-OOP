@@ -50,21 +50,22 @@ Abstraction is applied by using the ExpenseViewer interface, which defines the v
    ```sh
    java Main
 
-## SAMPLE OUTPUT 
+## SAMPLE OUTPUT
 
 ### MAIN MENU
-<img width="276" height="179" alt="image" src="https://github.com/user-attachments/assets/e899fbc0-3c3e-43ca-84fc-1e9a0a86db8a" />
----
+<img width="276" height="179" alt="main-menu" src="https://github.com/user-attachments/assets/e899fbc0-3c3e-43ca-84fc-1e9a0a86db8a" />
+
 ### ADD EXPENSES
-<img width="188" height="157" alt="image" src="https://github.com/user-attachments/assets/4c43f425-5e90-4e94-84c4-76c4a5aba362" />
----
+<img width="188" height="157" alt="add-expenses" src="https://github.com/user-attachments/assets/4c43f425-5e90-4e94-84c4-76c4a5aba362" />
+
 ### VIEW EXPENSES
-<img width="495" height="144" alt="image" src="https://github.com/user-attachments/assets/c0ed2144-97fb-4cc3-a367-1fb83d60309d" />
----
+<img width="495" height="144" alt="view-expenses" src="https://github.com/user-attachments/assets/c0ed2144-97fb-4cc3-a367-1fb83d60309d" />
+
 ### TOTAL EXPENSES
----
-#### FILTER BY CATEGORY 
----
+*(No screenshot provided)*
+
+### FILTER BY CATEGORY
+*(No screenshot provided)*
 
 ## 🙏 Acknowledgment
 I would like to express my gratitude to our instructor for the guidance and support provided throughout this project. I also want to thank my group members for their cooperation, ideas, and contributions that helped make this work successful. Their teamwork and dedication played a big role in completing this project effectively.
