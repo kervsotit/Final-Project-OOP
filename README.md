@@ -50,21 +50,21 @@ Abstraction is applied by using the ExpenseViewer interface, which defines the v
    ```sh
    java Main
 
-## SAMPLE OUTPUT
+## 🖥️SAMPLE OUTPUT
 
-### MAIN MENU
+### 🏠 MAIN MENU
 <img width="276" height="179" alt="main-menu" src="https://github.com/user-attachments/assets/e899fbc0-3c3e-43ca-84fc-1e9a0a86db8a" />
 
-### ADD EXPENSES
+### ➕ ADD EXPENSES
 <img width="188" height="157" alt="add-expenses" src="https://github.com/user-attachments/assets/4c43f425-5e90-4e94-84c4-76c4a5aba362" />
 
-### VIEW EXPENSES
+### 📄 VIEW EXPENSES
 <img width="495" height="144" alt="view-expenses" src="https://github.com/user-attachments/assets/c0ed2144-97fb-4cc3-a367-1fb83d60309d" />
 
-### TOTAL EXPENSES
+### 💰 TOTAL EXPENSES
 *(No screenshot provided)*
 
-### FILTER BY CATEGORY
+### 🔍 FILTER BY CATEGORY
 *(No screenshot provided)*
 
 # 🙏 Acknowledgment
@@ -79,10 +79,10 @@ To further improve this project, the following enhancements are planned:
 This will make the application more user-friendly and easier to navigate.
 
 ### 2. Add Additional Features
-- Expense filtering  
-- Total expense calculation  
-- Data exporting  
-- Enhanced category management  
+🎯 Set Budget 
+🗓️ Monthly summary report
+🔎 Search bar  
+🔁 Add recurring expenses (e.g., daily/weekly/monthly)
 
 
 
