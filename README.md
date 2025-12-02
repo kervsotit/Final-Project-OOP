@@ -67,14 +67,22 @@ Abstraction is applied by using the ExpenseViewer interface, which defines the v
 ### FILTER BY CATEGORY
 *(No screenshot provided)*
 
-## 🙏 Acknowledgment
+# 🙏 Acknowledgment
 I would like to express my gratitude to our instructor for the guidance and support provided throughout this project. I also want to thank my group members for their cooperation, ideas, and contributions that helped make this work successful. Their teamwork and dedication played a big role in completing this project effectively.
+
 ---
 
-## 🔧 Future Enhancements
+# 🔧 Future Enhancements
 To further improve this project, the following enhancements are planned:
-1.Add a graphical user interface (GUI) to make the application more user-friendly and easier to navigate.
-2.Include additional features such as expense filtering, total expense calculation, data exporting, and improved category management.
+
+### 1. Add a Graphical User Interface (GUI)
+This will make the application more user-friendly and easier to navigate.
+
+### 2. Add Additional Features
+- Expense filtering  
+- Total expense calculation  
+- Data exporting  
+- Enhanced category management  
 
 
 
